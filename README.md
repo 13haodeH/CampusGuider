@@ -20,4 +20,3 @@
 ![image](https://github.com/13haodeH/CampusGuider/assets/129391674/3351aa63-2e09-448a-969b-78d6232a8143)
 最短路径会用红色标注
 
-v：h17276774667
